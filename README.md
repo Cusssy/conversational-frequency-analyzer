@@ -55,8 +55,3 @@ Enter the name of the JSON file: messages.json
 
 ![Conversation Frequency Graph](graph.png)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
